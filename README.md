@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Bienvenue sur mon profil GitHub !👋🏼
 - 🌱 I’m currently learning Data Science & Machine Learning.
 - 📫 How to reach me: https://xaadim-bamba.github.io 
 
