@@ -6,7 +6,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 - 🌱 I’m currently learning Data Science & Machine Learning.
 - 📫 How to reach me: xaadim.bamba@protonmail.com
-- 🌏☁️ Vous pouvez retrouver mes projets sur mon site web que j'ai développé avec le framework Jekyll.
+- 🌏☁️ Vous pouvez retrouver mes projets sur mon [site web](https://xaadim-bamba.github.io) que j'ai développé avec le framework Jekyll.
 
 <!--
 **Xaadim-Bamba/Xaadim-Bamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
