@@ -4,6 +4,8 @@
 **Xaadim-Bamba/Xaadim-Bamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+🌱 I’m currently learning Data Science & Machine Learning.
+📫 How to reach me: https://xaadim-bamba.github.io 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
