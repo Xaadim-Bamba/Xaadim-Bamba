@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
-🌱 I’m currently learning Data Science & Machine Learning.
-📫 How to reach me: https://xaadim-bamba.github.io 
+- 🌱 I’m currently learning Data Science & Machine Learning.
+- 📫 How to reach me: https://xaadim-bamba.github.io 
 
 <!--
 **Xaadim-Bamba/Xaadim-Bamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
