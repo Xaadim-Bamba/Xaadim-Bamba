@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Bienvenue sur mon profil GitHub !👋🏼
 
+Bienvenue sur mon profil GitHub !👋🏼  
 Je suis un passionné de nouvelles technologies et de programmation. Je code principalement en Python 🐍 dans des domaines autours des Mathématiques 🧮 et de l'Intelligence Artificielle ⛏
 
 - 🌱 I’m currently learning Data Science & Machine Learning.
