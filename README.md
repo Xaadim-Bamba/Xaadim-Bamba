@@ -5,7 +5,7 @@ Bienvenue sur mon profil GitHub !👋🏼
 Je suis un passionné de nouvelles technologies et de programmation. Je code principalement en Python 🐍 dans des domaines autours des Mathématiques 🧮 et de l'Intelligence Artificielle ⛏
 
 - 🌱 I’m currently learning Data Science & Machine Learning.
-- 📫 How to reach me: xaadim.bamba@gmail.com
+- 📫 How to reach me: xaadim.bamba@protonmail.com
 - 🌏☁️ Vous pouvez retrouver mes projets sur mon site web que j'ai développé avec le framework Jekyll.
 
 <!--
