@@ -2,7 +2,7 @@
 
 Bienvenue sur mon profil GitHub !👋🏼  
 
-Je suis un passionné de nouvelles technologies et de programmation et j'ai ai une forte appétence pour l’exploration et l’analyse de la Data.Je code principalement en Python 🐍 dans des domaines autours des Mathématiques 🧮 et de l'Intelligence Artificielle ⛏
+Je suis un passionné de nouvelles technologies et de programmation et j'ai ai une forte appétence pour l’exploration et l’analyse de la Data. Je code principalement en Python 🐍 dans des domaines autours des Mathématiques 🧮 et de l'Intelligence Artificielle ⛏
 
 - 🌱 I’m currently learning Data Science & Machine Learning.
 - 👯 Je suis à la recherche d’un stage en analyse de données ou machine learning de 4 ou 6 mois
