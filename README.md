@@ -1,6 +1,5 @@
-### Hi there 👋
 
-Bienvenue sur mon profil GitHub !👋🏼  
+### Bienvenue sur mon profil GitHub !👋🏼  
 
 Je suis un passionné de nouvelles technologies et de programmation et j'ai ai une forte appétence pour l’exploration et l’analyse de la Data. Ma passion est de donner du sens aux données et les voir impacter le réel. Ce qui me donne une forte volonté de travailler et d’apprendre tant concernant le monde du Data. Je code principalement en Python 🐍 dans des domaines autours des Mathématiques 🧮 et de l'Intelligence Artificielle ⛏.
 
