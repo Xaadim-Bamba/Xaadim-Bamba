@@ -4,7 +4,7 @@
 Je suis un passionné de nouvelles technologies et de programmation et j'ai ai une forte appétence pour l’exploration et l’analyse de la Data. Ma passion est de donner du sens aux données et les voir impacter le réel. Ce qui me donne une forte volonté de travailler et d’apprendre tant concernant le monde du Data. Je code principalement en Python 🐍 dans des domaines autours des Mathématiques 🧮 et de l'Intelligence Artificielle ⛏.
 
 - 🌱 I’m currently learning Data Science & Machine Learning.
-- 👯 Je suis à la recherche d’un stage en analyse de données ou machine learning de 4 à 6 mois
+- 👯 Je suis à la recherche d’un stage en analyse de données ou machine learning de 4 mois
 - 📫 How to reach me: xaadim.bamba@protonmail.com
 - 🌏☁️ Vous pouvez retrouver mes projets sur mon [site web](https://xaadim-bamba.github.io) que j'ai développé avec le framework Jekyll.
 
